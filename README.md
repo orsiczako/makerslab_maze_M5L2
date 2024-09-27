@@ -1,5 +1,5 @@
 # makerslab_maze_M5L2
-### Kódmagyarázat a Pygame projekt kapcsán
+### Sziasztok! Csatolom a kódmagyarázatot a Pygame projekt kapcsán, ha valakinek esetleg szüksége lenne a későbbiekben egy kis emlékeztetőre. Jó programozást!:)
 
 #### 1. **Könyvtárak importálása**
 A program elején importáljuk a `pygame` könyvtárat:
