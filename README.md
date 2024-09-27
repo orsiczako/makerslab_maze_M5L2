@@ -130,10 +130,4 @@ clock.tick(FPS)  # Játék sebességének korlátozása az FPS alapján
 
 Ez biztosítja, hogy minden sprite frissüljön a képernyőn, a játék folyamatosan fusson és az FPS (60 képkocka/másodperc) szabályozza a sebességet.
 
-### Összefoglalás:
-- A kód egy egyszerű labirintus-játékot hoz létre, ahol a játékosnak el kell érnie a kincset.
-- A sprite-ok (játékos, ellenség, kincs) a `GameSprite` osztályból származnak, és egyedi képekkel és pozíciókkal rendelkeznek.
-- Amikor a játékos eléri a kincset, egy hangfájl játszódik le.
-- A játék folyamatosan frissül, és a grafika újrarajzolódik minden képkocka során.
 
-Ez a kód alapvető játékmenetet valósít meg a Pygame-ben, ahol különféle objektumokat (sprite-okat) kezelünk, háttérzenét játszunk, és interakciót biztosítunk a játékos és a kincs között.
